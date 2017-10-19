@@ -1,0 +1,67 @@
+.titulo{
+	background: orange;
+	border: 1px solid black;
+	width: 754px;
+	height: 30px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+h4,h3{
+	text-align: center;
+}
+
+h3{
+	margin-top: 50px;
+}
+p{
+	margin: 20px;
+	text-align: justify;
+}
+.monopoly p{
+	margin: 40px;
+}
+
+.antes{
+	border: 1px solid black;
+	float: left;
+	margin: 1 25px 5px 0;
+	width: 250px;
+	height: 460px;
+}
+
+.monopoly{
+	border: 1px solid black;
+	float: left;
+	margin: 1 25px 5px 0;
+	width: 300px;
+	height: 460px;
+}
+
+.ahora{
+	border: 1px solid black;
+	float: left;
+	margin: 0 25px 5px 0;
+	width: 200px;
+	height: 460px;
+}
+.imagen1{
+	width: 150px;
+	margin-left: 30px;
+	margin-top: 70px;
+}
+
+.imagen2{
+	margin-left: 20px;
+	width: 140px;
+}
+
+.informacion{
+	background: orange;
+	border: 1px solid black;
+	width: 754px;
+	height: 30px;
+	text-align: center;
+	margin-top: 460px;
+
+}
